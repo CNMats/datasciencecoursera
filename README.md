@@ -7,6 +7,7 @@ The R script file run_analysis.R in this repository is intended to do the follow
   0. Get the data
   1. Merges the training and the test sets to create one data set.
   2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+  
   (The following steps are not coded in this script yet)
   3. Uses descriptive activity names to name the activities in the data set
   4. Appropriately labels the data set with descriptive variable names. 
